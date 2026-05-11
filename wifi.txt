@@ -1,0 +1,14 @@
+NAME=WiFi-home
+SSID=DIGIFIBRA
+PASSWORD=
+END
+---
+
+NAME=Phone
+SSID=iPhone de Kode
+PASSWORD=
+---
+
+NAME=WiFi-2
+SSID=
+PASSWORD=
